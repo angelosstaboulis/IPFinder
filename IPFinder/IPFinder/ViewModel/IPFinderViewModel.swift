@@ -8,7 +8,6 @@
 import Foundation
 
 class IPFinderViewModel{
-    var ipArray = [IPModel]()
     var apishared:IPFinderNetwork!
     init(){
         apishared = IPFinderNetwork.shared

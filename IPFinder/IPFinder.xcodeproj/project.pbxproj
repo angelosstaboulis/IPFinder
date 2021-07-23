@@ -107,7 +107,7 @@
 		D6F9897126AB6D21000BF254 /* IPFinder */ = {
 			isa = PBXGroup;
 			children = (
-				D6F989B726AB7175000BF254 /* Interace */,
+				D6F989B726AB7175000BF254 /* Interface */,
 				D6F989B626AB7155000BF254 /* ViewModel */,
 				D6F989AD26AB6EA9000BF254 /* Model */,
 				D6F989AC26AB6E88000BF254 /* View */,
@@ -169,13 +169,13 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6F989B726AB7175000BF254 /* Interace */ = {
+		D6F989B726AB7175000BF254 /* Interface */ = {
 			isa = PBXGroup;
 			children = (
 				D6F9897626AB6D22000BF254 /* Assets.xcassets */,
 				D6F989C226AB8BE3000BF254 /* LaunchScreen.storyboard */,
 			);
-			path = Interace;
+			path = Interface;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
