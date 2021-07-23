@@ -1,4 +1,3 @@
-//
 //  IPFinderViewModel.swift
 //  IPFinder
 //

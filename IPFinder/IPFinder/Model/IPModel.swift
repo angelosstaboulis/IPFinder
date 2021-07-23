@@ -1,7 +1,5 @@
-//
 //  IPModel.swift
 //  IPFinder
-//
 //  Created by Angelos Staboulis on 24/7/21.
 //
 
